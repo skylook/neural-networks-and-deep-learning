@@ -9,7 +9,9 @@ free to fork and modify the code.
 
 ## Changes
 This is the code for online book "Neural Networks and Deep Learning". But it is modified for Python 3.x.
+
 If you are interested in that book but only prefer to python 3, you can use this version.
+
 My homepage : http://www.liuxiao.org
 
 ## License
